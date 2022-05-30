@@ -1,0 +1,31 @@
+id: IBA50A8BC
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:14:46.105162'
+last_modified: '2022-05-30T23:14:46.105180'
+parser: null
+source_metadata:
+  title: Sherab Özer Series
+  language: bo
+  description: 'Texts by and about Trengpo Tertön Sherab Özer (''phreng po gter ston
+    shes rab ''od zer, 1518–1584) alias Drodül Lingpa:'
+  volume:
+    f4587:
+      title: Dispeller of All Samaya Corruptions and Pollutions
+      base_file: f4587.txt
+      order: 1
+      parent: Damdrip Nyepa Kunsel
+    fD1EF:
+      title: 'Moonlight of Pacifying Amṛta: A Daily Visualization and Recitation for
+        the Dispeller of All Samaya Corruptions and Pollutions'
+      base_file: fD1EF.txt
+      order: 2
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
